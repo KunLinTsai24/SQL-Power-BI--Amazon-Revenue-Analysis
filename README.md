@@ -17,7 +17,7 @@ Amazon has been facing a notable decline in overall profitability and market com
 
 An ERD diagram is included to visually represent the database schema and relationships between tables.
 
-![]()
+![](https://github.com/KunLinTsai24/Amazon-Revenue-Analysis/blob/main/img/ERD.png)
 
 ### 1. **Exploratory Analysis**
 
@@ -83,7 +83,7 @@ The purpose of this exploratory data analysis (EDA) is to understand the differe
 
 ### 6. **Revenue Analysis Dashboard**
 
-![]()
+![](https://github.com/KunLinTsai24/Amazon-Revenue-Analysis/blob/main/img/dashboard%20snapshot.png)
 
 ---
 
