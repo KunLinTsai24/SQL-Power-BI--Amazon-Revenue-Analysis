@@ -25,16 +25,20 @@ The purpose of this exploratory data analysis (EDA) is to understand the differe
 
 - Identification of Order Statuses:
   - The analysis started by identifying the distinct order statuses in the dataset (Completed, Inprogress, Returned, Cancelled).
+
 - Detailed Examination of Each Status:
   - Completed Orders:
     - Example: Order ID 1
     - This order was placed, paid for, and successfully delivered. This provides a baseline for what a successful transaction looks like, showing no issues in payment, shipping, or return processes.
+
   - In-progress Orders:
     - Example: Order ID 15
     - This order is still in progress, with payment completed but the order is yet to be fully delivered. This could indicate potential delays or issues in the shipping process, which might contribute to customer dissatisfaction.
+
   - Returned Orders:
     - Example: Order ID 13
     - This order was placed and shipped, but it was returned, and a refund was issued. Understanding why returns occur is critical, as high return rates can indicate product quality issues, incorrect product descriptions, or customer dissatisfaction.
+   
   - Cancelled Orders:
     - Example: Order ID 2
     - This order was canceled due to payment failure, and no shipping occurred. High cancellation rates could signal issues with the payment process, such as technical problems or customer hesitance at the payment stage.
@@ -50,6 +54,7 @@ The purpose of this exploratory data analysis (EDA) is to understand the differe
   - What is the MoM percentage change in total revenue?
   - What is the YoY percentage change in total revenue?
   - What is the monthly trend of total revenue between August 2023 and July 2024?
+    
 - Result
   - Current Month Revenue is **41K** and increase **30%** compare to last month, but decrease **94%** compare to last year.
   - Two big Revenue decline in last recent year, let's look at the most recent one: starting in **January** and ending in **March.**
