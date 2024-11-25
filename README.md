@@ -103,9 +103,3 @@ The analysis highlighted a significant revenue decline from January to March 202
 To address the revenue decline and improve profitability, targeted promotions for the underperforming Apple products within the Electronics category are recommended. Strengthening partnerships with Bluedart and other key shipping providers can help further reduce return loss revenue. Additionally, the company should closely monitor order statuses, focusing on returned and canceled orders, to identify and rectify any systemic issues that may be contributing to customer dissatisfaction or operational inefficiencies.
 
 ---
-
-## **Learning Outcome**
-
-In writing this SQL script, I honed my skills in advanced SQL techniques, including using GROUP BY and SUM for data aggregation and applying CASE WHEN for categorizing data. I effectively utilized window functions like LAG and LEAD to calculate Month-over-Month (MoM) and Year-over-Year (YoY) changes. By using Common Table Expressions (CTEs) with WITH clauses, I organized complex queries for better readability. Additionally, I analyzed trends and identified key contributors to revenue changes, showcasing my ability to handle complex joins and manage null values, ensuring accurate and insightful data analysis.
-
-In creating this dashboard, I learned to select and format charts effectively, focusing on clear, data-driven storytelling. I prioritized consistent formatting to reduce noise and avoided common errors like wrong chart types, overloading visuals with too many data series, and inconsistent colors. I added context to highlight trends and make meaningful comparisons across time periods. Additionally, I paid close attention to the layout, using reading patterns and visual principles to guide the viewer’s attention.
