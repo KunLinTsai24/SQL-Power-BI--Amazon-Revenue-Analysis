@@ -1,5 +1,3 @@
-# Amazon-Revenue-Analysis
-
 ## Introduction
 
 Amazon has been facing a notable decline in overall profitability and market competitiveness, with the underlying causes remaining unclear. To address this issue, I conducted a comprehensive analysis of over 20,000 sales records from an Amazon-like e-commerce platform, focusing on sales performance and product profitability. By tackling various **SQL** challenges, such as revenue analysis and product performance, and integrating these insights into a **Power BI dashboard**, I aimed to uncover actionable insights that can help the company regain its profitability and competitive edge.
